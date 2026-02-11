@@ -1,5 +1,5 @@
 # myapp
-<img width="461" height="601" alt="image" src="https://github.com/user-attachments/assets/bdd9deb9-c703-471d-9f36-af3dffdb926b" />
+<img width="274" height="485" alt="image" src="https://github.com/user-attachments/assets/2e8513a2-d27c-41f2-8b07-7d31c9f6f793" />
 
 A new Flutter project.
 
